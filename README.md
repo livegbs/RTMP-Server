@@ -1,14 +1,14 @@
 
 ## 介绍
-**LiveQing下载地址 : ** [ https://gitee.com/liveqing/ReleaseVersion/releases/LiveQing](https://gitee.com/liveqing/ReleaseVersion/releases/LiveQing) 
+**LiveQing下载地址 : ** [https://www.liveqing.com/docs/download/LiveQing.html](https://www.liveqing.com/docs/download/LiveQing.html) 
 
 **LiveQing在线演示入口 : ** [ http://cloud.liveqing.com](http://cloud.liveqing.com) 
 
 **在线接口文档 : **[  http://cloud.liveqing.com/apidoc/](http://cloud.liveqing.com/apidoc/)
 
 支持如下：
-1、云平台功能：可对接LiveGBS支持 云端录存储|回看；
-2、支持接收RTMP推流，转成RTMP、HTTP-FLV、HLS多种直播流分发；
+1、云平台功能：支持 云端录存储|回看；
+2、支持接收RTMP推流，转成WebRTC、RTMP、HTTP-FLV、HLS多种直播流分发；
 3、视频直播功能：鉴权直播 开放直播 拉转直播 直播快照；
 4、视频点播功能：视频文件上传 多清晰度转码；
 5、支持Windows、Linux系统环境；
